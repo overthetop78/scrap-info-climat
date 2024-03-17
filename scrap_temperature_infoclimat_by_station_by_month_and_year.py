@@ -1,4 +1,3 @@
-import calendar  # Importer le module de calendrier pour obtenir le nombre de jours dans un mois
 import json
 import re
 from time import sleep
