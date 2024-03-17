@@ -26,9 +26,6 @@ jobs:
     - name: Install pip
       run: |
         python -m pip install --upgrade pip
-    - name: Install json
-      run: |
-        pip install json 
     - name: Install requests
       run: |
         pip install requests
